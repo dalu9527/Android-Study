@@ -5,6 +5,7 @@ Volley想必大家已经都不陌生了，2013年Google官方推荐的网络框�
 ## When：什么时候用到了缓存 ##
 
 用过Volley的，都知道如何使用Volley，经典的三步曲就是：
+
 1.创建一个RequestQueue对象
 
 	RequestQueue mQueue = Volley.newRequestQueue(context); 
