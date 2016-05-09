@@ -212,7 +212,7 @@ LRUCache 的源码不是很长，我们从上到下逐个分析，先看官方�
 
 最后调用 entryRemoved 方法
 
-### entryRemoved ###
+### entryRemoved() ###
 
 	/**
      * Called for entries that have been evicted or removed. This method is
